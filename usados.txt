@@ -1,0 +1,20 @@
+Back
+nodejs
+express
+nodemon
+pug
+tailwindcss
+sequelize 
+mysql2
+
+Creamos primero la BD y después hacemos la conexión
+
+dotenv para proteger credenciales
+
+bcrypt
+express validator
+nodemailer
+webpack
+concurrently
+dropzone
+multer
