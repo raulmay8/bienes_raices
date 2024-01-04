@@ -2,7 +2,7 @@ import {Sequelize} from 'sequelize'
 
 const db = new Sequelize('bienesraicesr', process.env.DB_USER , process.env.DB_PASS ?? '',{
     host: process.env.DB_HOST,
-    port: process.env.DB_PORT,
+    port: 3307,
     dialect: 'mysql',
     define: {
         timestamps: true
